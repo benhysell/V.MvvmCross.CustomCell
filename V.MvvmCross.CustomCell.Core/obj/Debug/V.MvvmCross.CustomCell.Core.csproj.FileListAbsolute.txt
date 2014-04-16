@@ -1,0 +1,11 @@
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\V.MvvmCross.CustomCell.Core.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\V.MvvmCross.CustomCell.Core.pdb
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\Cirrious.MvvmCross.FieldBinding.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\bin\Debug\Cirrious.MvvmCross.Plugins.MethodBinding.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\obj\Debug\V.MvvmCross.CustomCell.Core.csprojResolveAssemblyReference.cache
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\obj\Debug\V.MvvmCross.CustomCell.Core.dll
+C:\Users\ben\Documents\GitHub\V.MvvmCross.CustomCell\V.MvvmCross.CustomCell.Core\obj\Debug\V.MvvmCross.CustomCell.Core.pdb
